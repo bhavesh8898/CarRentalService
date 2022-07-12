@@ -1,0 +1,8 @@
+Specifications:
+
+Fuel type 	     :                          Petrol
+Seating capacity     :                     	5 adults
+Transmission type    :				Automatic	
+Fuel Avg             :                     	10kmpl	
+Engine displacement  :                          2999 cc
+Rental price         :                     	1200 per day

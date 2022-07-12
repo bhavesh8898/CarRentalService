@@ -1,0 +1,8 @@
+Specifications:
+
+Fuel type 	     :                          Diesel
+Seating capacity     :                     	4 adults
+Transmission type    :				Automatic	
+Fuel Avg             :                     	14kmpl	
+Engine displacement  :                          2699 cc
+Rental price         :                     	1000 per day
